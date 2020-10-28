@@ -1,2 +1,2 @@
-# my-little-project
-complicated project demonstrating mastering of 10 technology from the implementation of html, css, javascript , react, bootstrap, ajax, xhml, node.js and php all in one using proper github implementation work style
+# about-project
+As a web developer who has been hired by a music education company. This client wants me to create an interactive game to help their beginner-level piano students study. I will be Creating a piano player with DOM events in JavaScript! using css and html as well.
